@@ -1,0 +1,20 @@
+[window]
+decorations = "None"
+opacity = 0.5
+padding = { x = 5, y = 2}
+startup_mode = "Maximized"
+decorations_theme_variant="Dark"
+
+[scrolling]
+history = 10000
+multiplier = 5
+
+[font]
+size = 12
+
+[font.normal]
+family = "MesloLGM Nerd font"
+
+[colors.primary]
+background = "0x121212"
+foreground = "0xD9E0E0"
